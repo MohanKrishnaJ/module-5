@@ -1,8 +1,8 @@
 # EX-26-AREA-OF-RECTANGLE-USING- POINTER
 
-NAME : YASHWANTH K 
+NAME :MOHAN KRISHNA J
 
-REG NO : 212224040369
+REG NO : 212223220060
 
 ## AIM
 To write a C Program to find area of rectangle using pointer.
